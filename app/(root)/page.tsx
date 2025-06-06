@@ -15,7 +15,6 @@ async function Page({ searchParams }: SearchParams) {
         title="All Videos"
         subHeader="Public Library"
       />
-      <h1 className="text-2xl font-karla">Welcome to loom clone</h1>
 
       {videos?.length > 0 ?
         (
