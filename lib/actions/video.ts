@@ -178,8 +178,6 @@ export const getVideoById = withErrorHandling(async (videoId: string) => {
     eq(videos.id, videoId)
   );
 
-  console.log(videoRecord);
-
   return videoRecord || {};
 });
 

@@ -10,9 +10,6 @@ const page = async ({ params }: Params) => {
 
   const { user, video } = await getVideoById(videoId);
 
-  console.log("Video id by bunny :");
-  console.log(video.videoId);
-
 
   if (!video) redirect("/404");
 
