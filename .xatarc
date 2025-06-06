@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Om-Satapathy-s-workspace-fssoar.us-east-1.xata.sh/db/screenieDB",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
