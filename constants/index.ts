@@ -3,10 +3,10 @@ export const MAX_THUMBNAIL_SIZE = 10 * 1024 * 1024; // 10 MB
 
 export const BUNNY = {
   STREAM_BASE_URL: "https://video.bunnycdn.com/library",
-  STORAGE_BASE_URL: "https://storage.bunnycdn.com/decoed-satapathy-screenie",
-  CDN_URL: "https://screenie-decoded-satapathy.b-cdn.net",
+  STORAGE_BASE_URL: "https://storage.bunnycdn.com/screenie-tech",
+  CDN_URL: "https://screenie-tech.b-cdn.net",
   EMBED_URL: "https://iframe.mediadelivery.net/embed",
-  TRANSCRIPT_URL: "https://vz-1f28903d-6d9.b-cdn.net",
+  TRANSCRIPT_URL: "https://vz-3bc347db-1bf.b-cdn.net",
 };
 
 // Emojis for reactions/comments
